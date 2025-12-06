@@ -618,3 +618,6 @@ def create_frequency_analysis(t2m_1, t2m_2, city1, city2):
         </ul>
         """
     }
+
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", port=5000)
