@@ -1,0 +1,9 @@
+Flask==3.0.0
+xarray==2024.1.0
+numpy==1.26.3
+pandas==2.1.4
+scipy==1.11.4
+matplotlib==3.8.2
+seaborn==0.13.1
+netCDF4==1.6.5
+Werkzeug==3.0.1
