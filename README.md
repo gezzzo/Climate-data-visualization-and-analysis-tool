@@ -43,7 +43,6 @@ Install dependencies (with NumPy pinned below 2 to avoid binary-compat issues):
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # macOS / Linux
-pip install "numpy<2"
 pip install -r requirements.txt
 ```
 
