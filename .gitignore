@@ -1,0 +1,73 @@
+#############################
+# Python / Flask project
+#############################
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Flask instance / runtime files
+instance/
+*.pid
+
+# Environment variables / local config
+.env
+.env.*
+*.secret
+
+# Jupyter notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
+
+# Misc project-specific
+*.bak
+*.tmp
+

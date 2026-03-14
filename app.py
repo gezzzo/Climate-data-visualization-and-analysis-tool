@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Climate Comparison Web Application
-Compare climate data between cities with interactive visualizations
-"""
-
 from flask import Flask, render_template, request, jsonify
 import xarray as xr
 import numpy as np
